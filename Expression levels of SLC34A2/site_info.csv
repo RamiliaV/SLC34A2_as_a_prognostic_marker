@@ -1,0 +1,34 @@
+Site;TCGA
+Adrenal gland;ACC
+Biliary Tract;CHOL
+Bladder;BLCA
+Bowel;COADREAD
+Breast;BRCA
+CNS|Brain;LGG
+CNS|Brain;GBM
+Cervix;CESC
+Esophagus|Stomach;ESCA
+Stomach adenocarcinoma;STAD
+Eye;UVM
+Head and neck;HNSC
+Kidney;KIRP
+Kidney;KIRC
+Kidney;KICH
+Liver;LIHC
+Lung;LUAD
+Lung;LUSC
+Lymphoid;DLBC
+Myeloid;LAML
+Ovary;OV
+Pancreas;PAAD
+Pleura;MESO
+Prostate;PRAD
+Skin;SKCM
+Soft Tissue;PCPG
+Soft Tissue;SARC
+Testis;TGCT
+Thymus;THYM
+Thyroid;THCA
+Uterus;UCS
+Uterus;UCEC
+Uterus;
